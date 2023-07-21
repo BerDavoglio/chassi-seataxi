@@ -1,0 +1,1 @@
+export './comum_dialog_component.dart';
